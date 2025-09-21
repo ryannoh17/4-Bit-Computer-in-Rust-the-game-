@@ -13,7 +13,7 @@ With only 1 byte of RAM the most interesting thing I could make it do was increm
 
 An upgrade was made to give it 2 bytes of RAM. 4 lines of Programmable ROM along with 2 bytes of RAM was enough to run the Fibonacci sequence. 
 I sadly made no recordings of this when I got it to work and now the world file has been corrupted causing some of the components to shift around and sink into the ground, becoming unreachable.
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/db6a2b43-0425-4b03-8a89-89c73f7a3783" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7c1bcdec-80d3-4b0a-b586-cc750f6dc776" />
 
 Maybe this will be fixed one day, a new save was made to organize the computer and upgrade it to 6 bits to show more digits of the Fibonacci sequence, but that file has also been corrupted.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4a3f4f3-00d4-4850-90c7-084144be4799" />
