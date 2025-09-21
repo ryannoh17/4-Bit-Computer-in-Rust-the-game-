@@ -5,7 +5,7 @@ The computer includes a 4 bit ALU, a clock speed of 0.2 hertz (runs 1 line every
 I first started creating this by using a website which allowed me to design and quickly edit the computer.
 <img width="962" height="673" alt="image" src="https://github.com/user-attachments/assets/91e26ce4-f840-445f-85a3-6c8a9f2c3ae0" />
 
-After a decent design was made I started creating it in game. Because of how many components there were and all the wiring I had to do I only initially added 1 byte of RAM as that was enough to test along with the 3 registers.
+After a decent design was made I started creating it in game. Because of how many components there were and all the wiring I had to do I only initially added 1 byte of RAM as that was enough to test along with the a/b registers.
 The image below shows the version with only 1 byte of RAM. The computer has the ability to have up to 4 bytes of ram. 
 With only 1 byte of RAM the most interesting thing I could make it do was increment by an set number. 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be49f71b-dc49-4af5-88ad-8e15d9fddc16" />
